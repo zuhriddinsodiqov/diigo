@@ -1,0 +1,16 @@
+@media  only screen and (max-width:768px){
+    .nav{
+        a{
+            display: none;
+        }
+        .fa-bars{
+            display: block;
+        }
+    }
+    .logo{
+        width: 100%;
+        img{
+            width: 100%;
+        }
+    }
+}
